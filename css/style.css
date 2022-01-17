@@ -43,7 +43,9 @@
     border: none;
     padding: 0;
 }
-
+.delete-form{
+    display:inline-block;
+}
 #empty-list-text{
     text-align: center;
 }
